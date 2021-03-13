@@ -7,7 +7,7 @@ const Card = (props) => {
     return (
         <div>
             <h1>order summary</h1>
-            <p>sum:{card.lenght}</p>
+            <p>sum:{card.length}</p>
         </div>
     );
 };
