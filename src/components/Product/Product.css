@@ -8,12 +8,13 @@
     margin-right: 40px;
     padding: 10px;
 }
-.product h4{
+.product-name{
     color: blue;
 }
-.product button{
+.productbtn{
     width:130px;
     height:25px;
     background-color:goldenrod;
     border:1px solid black;
+    border-radius: 5px;
 }
